@@ -57,6 +57,7 @@ estudiantes[estudiantes$promedio_final >= 7, ]
 estudiantes[pmax(estudiantes$nota1, estudiantes$nota2, estudiantes$nota3) < 5, ]
 ```
 
+
 ```{r}
 #-------------- EJERCICIO 3 / R --------------
 #Orden: Ejemplo 3: A continuación se presenta un conjunto de datos correspondiente al historial crediticio de 10 solicitantes de crédito en una institución financiera ecuatoriana. Se pide:
