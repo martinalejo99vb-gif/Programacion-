@@ -34,8 +34,6 @@ desviacion = np.std(edades, ddof=1)
 # Impresión de resultados
 print(f"Máx: {maxima}, Mín: {minima}, Std: {desviacion:.2f}")
 ```
-
-
 ```{r}
 #-------------- EJERCICIO 2 / R --------------
 #Orden: Complete el dataframe de las notas de 5 estudiantes, sus tres notas parciales y calcule una columna “promedio_final”. Se pide: a. Filtrar a los estudiantes que aprueban (promedio_final >= 7)    b. Filtrar a los estudiantes cuya máxima nota parcial es inferior a 5 (reprobados).
