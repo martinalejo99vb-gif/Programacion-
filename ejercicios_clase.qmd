@@ -163,6 +163,7 @@ contar_primos <- function(a, b) {
 contar_primos(1, 10) 
 ```
 
+
 ```{r}
 #-------------- EJERCICIO 8 / R --------------
 #Orden: Crear un archivo de texto plano y excel con información de 7 países (país, capital, idioma, población, moneda), léalo de vuelta y guárdalo en un dataframe llamado “data”.
